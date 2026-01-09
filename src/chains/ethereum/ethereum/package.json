@@ -70,7 +70,7 @@
     "emittery": "0.10.0",
     "encoding-down": "7.1.0",
     "env-paths": "2.2.1",
-    "eth-sig-util": "2.5.3",
+    "eth-sig-util": "3.0.1",
     "ethereumjs-abi": "0.6.8",
     "ethereumjs-util": "7.1.5",
     "keccak": "3.0.2",
